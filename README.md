@@ -30,17 +30,16 @@
 | 19 |  | [查找所有员工的last_name和first_name以及对应的dept_name](19.查找所有员工的last_name和first_name以及对应的dept_name.md) | :monkey_face: |
 | 20 |  | [查找员工编号emp_no为10001其自入职以来的薪水salary涨幅值growth](20.查找员工编号emp_no为10001其自入职以来的薪水salary涨幅值growth.md) | :monkey_face: |
 | 21 |  | [查找所有员工自入职以来的薪水涨幅情况](21.查找所有员工自入职以来的薪水涨幅情况.md) | :monkey_face: |
-| 22 |  |  |  |
-| 22.1 |  |  |  |
-| 23 |  |  |  |
-| 24 |  |  |  |
+| 22 |  | [统计各个部门对应员工涨幅的次数总和](22.统计各个部门对应员工涨幅的次数总和.md) | :monkey_face: |
+| 23 |  | [对所有员工的薪水按照salary进行按照1-N的排名](23.对所有员工的薪水按照salary进行按照1-N的排名.md) | :see_no_evil: |
+| 24 |  | [获取所有非manager员工当前的薪水情况](24.获取所有非manager员工当前的薪水情况.md) | :monkey_face: |
 | 25 |  |  |  |
 | 26 |  |  |  |
 | 27 |  |  |  |
 | 28 |  |  |  |
 | 29 |  |  |  |
 | 30 |  |  |  |
-| 31 |  |  |  |
+| 31 |  | [获取 select * from employees 对应的执行计划](31.获取select对应的执行计划.md) | :monkey_face: |
 | 32 |  |  |  |
 | 33 |  |  |  |
 | 34 |  |  |  |
