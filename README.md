@@ -9,33 +9,33 @@
 
 | 编号 | 分类 |       标题       |  提交   |
 | :--: | :--: | :--------------: | :---: |
-|  1   |  | [查找最晚入职员工的所有信息](1.查找最晚入职员工的所有信息.md) | :monkey_face: |
-| 2 |  | [查找入职员工时间排名倒数第三的员工所有信息](2.查找入职员工时间排名倒数第三的员工所有信息.md) | :monkey_face: |
-| 3 |  | [查找当前薪水详情以及部门编号dept_no](3.查找当前薪水详情以及部门编号dept_no.md) | :monkey_face: |
-| 4 |  | [查找所有已经分配部门的员工的last_name和first_name](4.查找所有已经分配部门的员工的last_name和first_name.md) | :monkey_face: |
-| 5 |  | [查找所有员工的last_name和first_name以及对应部门编号dept_no](5.查找所有员工的last_name和first_name以及对应部门编号dept_no.md) | :monkey_face: |
-| 6 |  | [查找所有员工入职时候的薪水情况](6.查找所有员工入职时候的薪水情况.md) | :monkey_face: |
-| 7 |  | [查找薪水涨幅超过15次的员工号emp_no以及其对应的涨幅次数t](7.查找薪水涨幅超过15次的员工号emp_no以及其对应的涨幅次数t.md) | :monkey_face: |
-| 8 |  | [找出所有员工当前薪水salary情况](8.找出所有员工当前薪水salary情况.md) | :monkey_face: |
-| 9 |  | [获取所有部门当前manager的当前薪水情况，给出dept_no, emp_no以及salary，当前表示to_date=9999-01-01](9.获取所有部门当前manager的当前薪水情况.md) | :monkey_face: |
-| 10 |  | [获取所有非manager的员工emp_no](10.获取所有非manager的员工emp_no.md) | :monkey_face: |
-| 11 |  | [获取所有员工当前的manager](11.获取所有员工当前的manager.md) | :monkey_face: |
-| 12 |  | [获取所有部门中当前员工薪水最高的相关信息](12.获取所有部门中当前员工薪水最高的相关信息.md) | :see_no_evil: |
-| 13 |  | [从titles表获取按照title进行分组](13.从titles表获取按照title进行分组.md) | :monkey_face: |
-| 14 |  | [从titles表获取按照title进行分组](14.从titles表获取按照title进行分组2.md) | :monkey_face: |
-| 15 |  | [查找employees表](15.查找employees表.md) | :monkey_face: |
-| 16 |  | [统计出当前各个title类型对应的员工当前薪水对应的平均工资](16.统计出当前各个title类型对应的员工当前薪水对应的平均工资.md) | :monkey_face: |
-| 17 |  | [获取当前薪水第二多的员工的emp_no以及其对应的薪水salary](17.获取当前薪水第二多的员工的emp_no以及其对应的薪水salary.md) | :monkey_face: |
-| 18 |  | [获取当前薪水第二多的员工的emp_no以及其对应的薪水salary，不准使用order by](18.获取当前薪水第二多的员工的emp_no以及其对应的薪水salary2.md) | :monkey_face: |
-| 19 |  | [查找所有员工的last_name和first_name以及对应的dept_name](19.查找所有员工的last_name和first_name以及对应的dept_name.md) | :monkey_face: |
-| 20 |  | [查找员工编号emp_no为10001其自入职以来的薪水salary涨幅值growth](20.查找员工编号emp_no为10001其自入职以来的薪水salary涨幅值growth.md) | :monkey_face: |
-| 21 |  | [查找所有员工自入职以来的薪水涨幅情况](21.查找所有员工自入职以来的薪水涨幅情况.md) | :monkey_face: |
-| 22 |  | [统计各个部门对应员工涨幅的次数总和](22.统计各个部门对应员工涨幅的次数总和.md) | :monkey_face: |
-| 23 |  | [对所有员工的薪水按照salary进行按照1-N的排名](23.对所有员工的薪水按照salary进行按照1-N的排名.md) | :see_no_evil: |
-| 24 |  | [获取所有非manager员工当前的薪水情况](24.获取所有非manager员工当前的薪水情况.md) | :monkey_face: |
-| 25 |  | [获取员工其当前的薪水比其manager当前薪水还高的相关信息](25.获取员工其当前的薪水比其manager当前薪水还高的相关信息.md) | :monkey_face: |
-| 26 |  | [汇总各个部门当前员工的title类型的分配数目](26.汇总各个部门当前员工的title类型的分配数目.md) | :monkey_face: |
-| 27 |  | [给出每个员工每年薪水涨幅超过5000的员工编号emp_no](27.给出每个员工每年薪水涨幅超过5000的员工编号emp_no.md) |  |
+|  1   | 过滤 | [查找最晚入职员工的所有信息](1.查找最晚入职员工的所有信息.md) | :monkey_face: |
+| 2 | 过滤 | [查找入职员工时间排名倒数第三的员工所有信息](2.查找入职员工时间排名倒数第三的员工所有信息.md) | :monkey_face: |
+| 3 | 连接 | [查找当前薪水详情以及部门编号dept_no](3.查找当前薪水详情以及部门编号dept_no.md) | :monkey_face: |
+| 4 | 连接 | [查找所有已经分配部门的员工的last_name和first_name](4.查找所有已经分配部门的员工的last_name和first_name.md) | :monkey_face: |
+| 5 | 连接 | [查找所有员工的last_name和first_name以及对应部门编号dept_no](5.查找所有员工的last_name和first_name以及对应部门编号dept_no.md) | :monkey_face: |
+| 6 | 连接 | [查找所有员工入职时候的薪水情况](6.查找所有员工入职时候的薪水情况.md) | :monkey_face: |
+| 7 | 分组 | [查找薪水涨幅超过15次的员工号emp_no以及其对应的涨幅次数t](7.查找薪水涨幅超过15次的员工号emp_no以及其对应的涨幅次数t.md) | :monkey_face: |
+| 8 | 过滤 | [找出所有员工当前薪水salary情况](8.找出所有员工当前薪水salary情况.md) | :monkey_face: |
+| 9 | 连接 | [获取所有部门当前manager的当前薪水情况，给出dept_no, emp_no以及salary，当前表示to_date=9999-01-01](9.获取所有部门当前manager的当前薪水情况.md) | :monkey_face: |
+| 10 | 过滤 | [获取所有非manager的员工emp_no](10.获取所有非manager的员工emp_no.md) | :monkey_face: |
+| 11 | 连接 | [获取所有员工当前的manager](11.获取所有员工当前的manager.md) | :monkey_face: |
+| 12 | 分组聚合 | [获取所有部门中当前员工薪水最高的相关信息](12.获取所有部门中当前员工薪水最高的相关信息.md) | :see_no_evil: |
+| 13 | 分组聚合 | [从titles表获取按照title进行分组](13.从titles表获取按照title进行分组.md) | :monkey_face: |
+| 14 | 分组聚合 | [从titles表获取按照title进行分组](14.从titles表获取按照title进行分组2.md) | :monkey_face: |
+| 15 | 过滤 | [查找employees表](15.查找employees表.md) | :monkey_face: |
+| 16 | 分组聚合 | [统计出当前各个title类型对应的员工当前薪水对应的平均工资](16.统计出当前各个title类型对应的员工当前薪水对应的平均工资.md) | :monkey_face: |
+| 17 | 过滤 | [获取当前薪水第二多的员工的emp_no以及其对应的薪水salary](17.获取当前薪水第二多的员工的emp_no以及其对应的薪水salary.md) | :monkey_face: |
+| 18 | 连接 | [获取当前薪水第二多的员工的emp_no以及其对应的薪水salary，不准使用order by](18.获取当前薪水第二多的员工的emp_no以及其对应的薪水salary2.md) | :monkey_face: |
+| 19 | 连接 | [查找所有员工的last_name和first_name以及对应的dept_name](19.查找所有员工的last_name和first_name以及对应的dept_name.md) | :monkey_face: |
+| 20 | 过滤 | [查找员工编号emp_no为10001其自入职以来的薪水salary涨幅值growth](20.查找员工编号emp_no为10001其自入职以来的薪水salary涨幅值growth.md) | :monkey_face: |
+| 21 | 连接 | [查找所有员工自入职以来的薪水涨幅情况](21.查找所有员工自入职以来的薪水涨幅情况.md) | :monkey_face: |
+| 22 | 分组聚合 | [统计各个部门对应员工涨幅的次数总和](22.统计各个部门对应员工涨幅的次数总和.md) | :monkey_face: |
+| 23 | 排名 | [对所有员工的薪水按照salary进行按照1-N的排名](23.对所有员工的薪水按照salary进行按照1-N的排名.md) | :see_no_evil: |
+| 24 | 连接 | [获取所有非manager员工当前的薪水情况](24.获取所有非manager员工当前的薪水情况.md) | :monkey_face: |
+| 25 | 连接 | [获取员工其当前的薪水比其manager当前薪水还高的相关信息](25.获取员工其当前的薪水比其manager当前薪水还高的相关信息.md) | :monkey_face: |
+| 26 | 连接和分组 | [汇总各个部门当前员工的title类型的分配数目](26.汇总各个部门当前员工的title类型的分配数目.md) | :monkey_face: |
+| 27 | 连接 | [给出每个员工每年薪水涨幅超过5000的员工编号emp_no](27.给出每个员工每年薪水涨幅超过5000的员工编号emp_no.md) | :see_no_evil: |
 | 28 | 连接 | [查找描述信息中包括robot的电影对应的分类名称以及电影数目，而且还需要该分类对应电影数量>=5部](28.查找描述信息中包括robot的电影对应的分类名称以及电影数目.md) | :monkey_face: |
 | 29 | 连接 | [使用join查询方式找出没有分类的电影id以及名称](29.使用join查询方式找出没有分类的电影id以及名称.md) | :monkey_face: |
 | 30 | 子查询 | [使用子查询的方式找出属于Action分类的所有电影对应的title,description](30.使用子查询.md) | :monkey_face: |
