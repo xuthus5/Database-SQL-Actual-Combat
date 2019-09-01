@@ -3,7 +3,7 @@
 |选项|说明|
 |:--:|:--:|
 |:monkey_face:|通过|
-|:see_no_evil:|未通过或不符合MySQL5.8语法规范|
+|:see_no_evil:|未通过或不符合MySQL5.7语法规范|
 
 
 
@@ -75,7 +75,7 @@
 
 题解主要有参考[牛课网论坛](https://www.nowcoder.com/ta/sql)
 
-本地测试使用**MySQL5.8**，部分语法与**SQLite**存在差异，对于MySQL5.7+，请设置**sql_mode**，正确使用group by(解决**ONLY_FULL_GROUP_BY**导致的group by查询条件严苛问题，此方法只做临时修改)
+本地测试使用**MySQL5.7**，部分语法与**SQLite**存在差异，对于MySQL5.7+，请设置**sql_mode**，正确使用group by(解决**ONLY_FULL_GROUP_BY**导致的group by查询条件严苛问题，此方法只做临时修改)
 
 ```mysql
 set sql_mode=(select replace(@@sql_mode,'ONLY_FULL_GROUP_BY','')); 
