@@ -54,7 +54,7 @@
 | 43 | 数据操作 | [将所有to_date为9999-01-01的全部更新为NULL](43.将所有to_date为9999-01-01的全部更新为NULL.md) | :monkey_face: |
 | 44 | 数据操作 | [将id=5以及emp_no=10001的行数据替换成id=5以及emp_no=10005](44.将id=5以及emp_no=10001的行数据替换成id=5以及emp_no=10005.md) | :monkey_face: |
 | 45 | 表操作 | [将titles_test表名修改为titles_2017](45.将titles_test表名修改为titles_2017.md) | :monkey_face: |
-| 46 | 外键 | [在audit表上创建外键约束，其emp_no对应employees_test表的主键id](46.在audit表上创建外键约束其emp_no对应employees_test表的主键id.md) |  |
+| 46 | 外键 | [在audit表上创建外键约束，其emp_no对应employees_test表的主键id](46.在audit表上创建外键约束其emp_no对应employees_test表的主键id.md) | :monkey_face: |
 | 47 | 连接 | [如何获取emp_v和employees有相同的数据no](47.如何获取emp_v和employees有相同的数据no.md) | :monkey_face: |
 | 48 | 数据操作 | [将所有获取奖金的员工当前的薪水增加10%](48.将所有获取奖金的员工当前的薪水增加10%.md) | :monkey_face: |
 | 49 | 字符串处理 | [针对库中的所有表生成select count(*)对应的SQL语句](49.针对库中的所有表生成对应的SQL语句.md) | :see_no_evil: |
